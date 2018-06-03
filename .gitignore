@@ -25,6 +25,9 @@ lec7/raw/*
 lec11/processed/*
 lec11/raw/*
 lec11/__pycache__
+lec11/img_align*
 lec11/img_align_celeba/*
+lec11/img_align_celeba_10000/*
+lec11/wgan_celeba_checkpoints/*
 
 lec12/img
