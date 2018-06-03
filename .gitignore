@@ -29,5 +29,6 @@ lec11/img_align*
 lec11/img_align_celeba/*
 lec11/img_align_celeba_10000/*
 lec11/wgan_celeba_checkpoints/*
+!lec11/wgan_celeba_checkpoints/Stable/*
 
 lec12/img
